@@ -7,12 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D82E8062A54715D00DA1B91 /* splashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D82E8052A54715D00DA1B91 /* splashView.swift */; };
+		5DADAE772A51DC30000CB3E7 /* cardioVascular.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE762A51DC30000CB3E7 /* cardioVascular.swift */; };
+		5DADAE7C2A51DC65000CB3E7 /* cancer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE7B2A51DC65000CB3E7 /* cancer.swift */; };
+		5DADAE812A51DC83000CB3E7 /* diabities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE802A51DC83000CB3E7 /* diabities.swift */; };
+		5DADAE862A51DCAB000CB3E7 /* chronic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE852A51DCAB000CB3E7 /* chronic.swift */; };
+		5DADAE8B2A51FCE5000CB3E7 /* trackAcitvity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE8A2A51FCE5000CB3E7 /* trackAcitvity.swift */; };
+		5DADAE902A51FD07000CB3E7 /* trackSleep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE8F2A51FD07000CB3E7 /* trackSleep.swift */; };
+		5DADAE952A51FD4D000CB3E7 /* helpCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE942A51FD4D000CB3E7 /* helpCenter.swift */; };
+		5DADAE9A2A51FD7E000CB3E7 /* openSources.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DADAE992A51FD7E000CB3E7 /* openSources.swift */; };
 		5DB335292A4CCD3300BDD5A4 /* HealthierApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB335282A4CCD3300BDD5A4 /* HealthierApp.swift */; };
 		5DB3352B2A4CCD3400BDD5A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB3352A2A4CCD3400BDD5A4 /* ContentView.swift */; };
 		5DB3352D2A4CCD3E00BDD5A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB3352C2A4CCD3E00BDD5A4 /* Assets.xcassets */; };
 		5DB335302A4CCD3E00BDD5A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB3352F2A4CCD3E00BDD5A4 /* Preview Assets.xcassets */; };
 		5DB3353B2A4CCD3F00BDD5A4 /* HealthierTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB3353A2A4CCD3F00BDD5A4 /* HealthierTests.swift */; };
 		5DB335462A4CCD3F00BDD5A4 /* HealthierUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB335452A4CCD3F00BDD5A4 /* HealthierUITests.swift */; };
+		5DB335582A4CD4F000BDD5A4 /* slideHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB335572A4CD4F000BDD5A4 /* slideHorizontal.swift */; };
+		5DB335612A4D101C00BDD5A4 /* home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB335602A4D101A00BDD5A4 /* home.swift */; };
+		5DB335662A4E122700BDD5A4 /* settingsTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB335652A4E122700BDD5A4 /* settingsTab.swift */; };
+		5DB3356C2A4F064C00BDD5A4 /* calculateBMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB3356B2A4F064B00BDD5A4 /* calculateBMI.swift */; };
+		AB3F271F2A57714200E56B54 /* Obesity.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3F271E2A57714200E56B54 /* Obesity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +47,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D82E8052A54715D00DA1B91 /* splashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splashView.swift; sourceTree = "<group>"; };
+		5DADAE762A51DC30000CB3E7 /* cardioVascular.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardioVascular.swift; sourceTree = "<group>"; };
+		5DADAE7B2A51DC65000CB3E7 /* cancer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cancer.swift; sourceTree = "<group>"; };
+		5DADAE802A51DC83000CB3E7 /* diabities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diabities.swift; sourceTree = "<group>"; };
+		5DADAE852A51DCAB000CB3E7 /* chronic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chronic.swift; sourceTree = "<group>"; };
+		5DADAE8A2A51FCE5000CB3E7 /* trackAcitvity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trackAcitvity.swift; sourceTree = "<group>"; };
+		5DADAE8F2A51FD07000CB3E7 /* trackSleep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trackSleep.swift; sourceTree = "<group>"; };
+		5DADAE942A51FD4D000CB3E7 /* helpCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helpCenter.swift; sourceTree = "<group>"; };
+		5DADAE992A51FD7E000CB3E7 /* openSources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = openSources.swift; sourceTree = "<group>"; };
 		5DB335252A4CCD3300BDD5A4 /* Healthier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Healthier.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DB335282A4CCD3300BDD5A4 /* HealthierApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthierApp.swift; sourceTree = "<group>"; };
 		5DB3352A2A4CCD3400BDD5A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +68,11 @@
 		5DB335412A4CCD3F00BDD5A4 /* HealthierUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HealthierUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DB335452A4CCD3F00BDD5A4 /* HealthierUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthierUITests.swift; sourceTree = "<group>"; };
 		5DB335472A4CCD3F00BDD5A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DB335572A4CD4F000BDD5A4 /* slideHorizontal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slideHorizontal.swift; sourceTree = "<group>"; };
+		5DB335602A4D101A00BDD5A4 /* home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = home.swift; sourceTree = "<group>"; };
+		5DB335652A4E122700BDD5A4 /* settingsTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settingsTab.swift; sourceTree = "<group>"; };
+		5DB3356B2A4F064B00BDD5A4 /* calculateBMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculateBMI.swift; sourceTree = "<group>"; };
+		AB3F271E2A57714200E56B54 /* Obesity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Obesity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +100,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5DADAE742A51DBC4000CB3E7 /* NCD */ = {
+			isa = PBXGroup;
+			children = (
+				5DADAE752A51DBD8000CB3E7 /* view */,
+			);
+			path = NCD;
+			sourceTree = "<group>";
+		};
+		5DADAE752A51DBD8000CB3E7 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				5DADAE762A51DC30000CB3E7 /* cardioVascular.swift */,
+				5DADAE7B2A51DC65000CB3E7 /* cancer.swift */,
+				5DADAE802A51DC83000CB3E7 /* diabities.swift */,
+				5DADAE852A51DCAB000CB3E7 /* chronic.swift */,
+				AB3F271E2A57714200E56B54 /* Obesity.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
 		5DB3351C2A4CCD3300BDD5A4 = {
 			isa = PBXGroup;
 			children = (
@@ -95,6 +143,10 @@
 		5DB335272A4CCD3300BDD5A4 /* Healthier */ = {
 			isa = PBXGroup;
 			children = (
+				5DADAE742A51DBC4000CB3E7 /* NCD */,
+				5DB3356A2A4F061500BDD5A4 /* other */,
+				5DB3355C2A4CD82C00BDD5A4 /* model */,
+				5DB335562A4CD4C600BDD5A4 /* views */,
 				5DB335282A4CCD3300BDD5A4 /* HealthierApp.swift */,
 				5DB3352A2A4CCD3400BDD5A4 /* ContentView.swift */,
 				5DB3352C2A4CCD3E00BDD5A4 /* Assets.xcassets */,
@@ -128,6 +180,36 @@
 				5DB335472A4CCD3F00BDD5A4 /* Info.plist */,
 			);
 			path = HealthierUITests;
+			sourceTree = "<group>";
+		};
+		5DB335562A4CD4C600BDD5A4 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				5DB335572A4CD4F000BDD5A4 /* slideHorizontal.swift */,
+				5DB335602A4D101A00BDD5A4 /* home.swift */,
+				5DB335652A4E122700BDD5A4 /* settingsTab.swift */,
+				5D82E8052A54715D00DA1B91 /* splashView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		5DB3355C2A4CD82C00BDD5A4 /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		5DB3356A2A4F061500BDD5A4 /* other */ = {
+			isa = PBXGroup;
+			children = (
+				5DB3356B2A4F064B00BDD5A4 /* calculateBMI.swift */,
+				5DADAE8A2A51FCE5000CB3E7 /* trackAcitvity.swift */,
+				5DADAE8F2A51FD07000CB3E7 /* trackSleep.swift */,
+				5DADAE942A51FD4D000CB3E7 /* helpCenter.swift */,
+				5DADAE992A51FD7E000CB3E7 /* openSources.swift */,
+			);
+			path = other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +341,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DADAE9A2A51FD7E000CB3E7 /* openSources.swift in Sources */,
+				5DADAE862A51DCAB000CB3E7 /* chronic.swift in Sources */,
+				5DADAE902A51FD07000CB3E7 /* trackSleep.swift in Sources */,
+				5DADAE8B2A51FCE5000CB3E7 /* trackAcitvity.swift in Sources */,
+				5DADAE772A51DC30000CB3E7 /* cardioVascular.swift in Sources */,
+				5DADAE952A51FD4D000CB3E7 /* helpCenter.swift in Sources */,
 				5DB3352B2A4CCD3400BDD5A4 /* ContentView.swift in Sources */,
+				AB3F271F2A57714200E56B54 /* Obesity.swift in Sources */,
+				5DB3356C2A4F064C00BDD5A4 /* calculateBMI.swift in Sources */,
+				5DADAE7C2A51DC65000CB3E7 /* cancer.swift in Sources */,
 				5DB335292A4CCD3300BDD5A4 /* HealthierApp.swift in Sources */,
+				5DB335662A4E122700BDD5A4 /* settingsTab.swift in Sources */,
+				5DB335612A4D101C00BDD5A4 /* home.swift in Sources */,
+				5D82E8062A54715D00DA1B91 /* splashView.swift in Sources */,
+				5DB335582A4CD4F000BDD5A4 /* slideHorizontal.swift in Sources */,
+				5DADAE812A51DC83000CB3E7 /* diabities.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,6 +515,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Healthier/Preview Content\"";
+				DEVELOPMENT_TEAM = 3374Z8RL2Q;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Healthier/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -440,6 +537,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Healthier/Preview Content\"";
+				DEVELOPMENT_TEAM = 3374Z8RL2Q;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Healthier/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;

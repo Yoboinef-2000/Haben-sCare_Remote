@@ -11,7 +11,8 @@ import SwiftUI
 struct HealthierApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
+            splashView()
         }
     }
 }
